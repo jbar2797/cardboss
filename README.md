@@ -26,4 +26,3 @@ npm start
 ```
 
 Then open `http://localhost:3000/rankings` to view the current top cards.
-
